@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\bin\Debug\KurshachKorepi4.exe.config
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\bin\Debug\KurshachKorepi4.exe
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\bin\Debug\KurshachKorepi4.pdb
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.Form1.resources
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.Properties.Resources.resources
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.exe
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.pdb
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\bin\Debug\Vehicle.mdf
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\bin\Debug\Vehicle_log.ldf
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.forms.AddVehicle.resources
+C:\Users\DELL\source\repos\KurshachKorepi4\KurshachKorepi4\obj\Debug\KurshachKorepi4.forms.EditVehicle.resources
